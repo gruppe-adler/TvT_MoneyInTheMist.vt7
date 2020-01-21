@@ -67,7 +67,8 @@ class rebels {
             addItemsToBackpack[] = {
                 LIST_7("rhs_30Rnd_762x39mm"),
                 LIST_2("rhs_mag_rdg2_white"),
-                LIST_2("rhs_mag_f1")
+                LIST_2("rhs_mag_f1"),
+                LIST_4("ACE_splint")
             };
         };
 
@@ -101,7 +102,8 @@ class rebels {
                 LIST_15("ACE_fieldDressing"),
                 LIST_8("ACE_epinephrine"),
                 LIST_8("ACE_morphine"),
-                LIST_2("ACE_salineIV")
+                LIST_2("ACE_salineIV"),
+                LIST_15("ACE_splint")
             };
         };
 

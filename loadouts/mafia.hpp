@@ -57,7 +57,8 @@ class mafia {
             addItemsToBackpack[] = {
                 LIST_7("rhs_30Rnd_762x39mm"),
                 LIST_2("rhs_mag_rdg2_white"),
-                LIST_2("rhs_mag_rgd5")
+                LIST_2("rhs_mag_rgd5"),
+                LIST_4("ACE_splint")
             };
         };
 
@@ -91,7 +92,8 @@ class mafia {
                 LIST_8("ACE_morphine"),
                 LIST_8("ACE_epinephrine"),
                 LIST_1("ACE_salineIV_500"),
-                LIST_1("ACE_salineIV_250")
+                LIST_1("ACE_salineIV_250"),
+                LIST_15("ACE_splint")
             };
         };
 

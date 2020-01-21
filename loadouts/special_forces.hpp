@@ -46,7 +46,8 @@ class special_forces_w {
                 LIST_7("rhs_mag_30Rnd_556x45_Mk318_Stanag"),
                 LIST_2("rhs_mag_an_m8hc"),
                 LIST_2("rhs_mag_m67"),
-                LIST_1("ACE_M84")
+                LIST_1("ACE_M84"),
+                LIST_4("ACE_splint")
             };
         };
 
@@ -78,7 +79,8 @@ class special_forces_w {
                 LIST_15("ACE_fieldDressing"),
                 LIST_10("ACE_morphine"),
                 LIST_10("ACE_epinephrine"),
-                LIST_2("ACE_salineIV")
+                LIST_2("ACE_salineIV"),
+                LIST_15("ACE_splint")
             };
         };
 
