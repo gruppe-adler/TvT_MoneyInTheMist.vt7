@@ -105,11 +105,11 @@ class CfgGradCivs {
     enableOnFoot = 1;
     enableInVehicles = 1;
 
-    maxCivsOnFoot = 40;
-    maxCivsInVehicles = 25;
-    maxCivsResidents = 0;
+    maxCivsOnFoot = 30;
+    maxCivsInVehicles = 15;
+    maxCivsResidents = 5;
 
-    backpackProbability = 0.15;
+    backpackProbability = 0.05;
     exitOn = "";
     onSpawn = "";
     onHeldUp = "";
