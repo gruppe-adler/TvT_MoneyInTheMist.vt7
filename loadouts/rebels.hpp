@@ -57,7 +57,8 @@ class rebels {
             "ACE_Flashlight_KSF1",
             "ACE_MapTools",
             "ACE_key_lockpick",
-            "ACE_key_indp"
+            "ACE_key_indp",
+            LIST_4("ACE_splint")
         };
     };
     class Type {

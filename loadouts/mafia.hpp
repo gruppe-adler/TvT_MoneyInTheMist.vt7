@@ -48,7 +48,8 @@ class mafia {
             "ACE_Flashlight_KSF1",
             "ACE_MapTools",
             "ACE_key_lockpick",
-            "ACE_key_east"
+            "ACE_key_east",
+            LIST_4("ACE_splint")
         };
     };
     class Type {

@@ -36,7 +36,8 @@ class special_forces_w {
             "ACE_Flashlight_MX991",
             "ACE_MapTools",
             "ACE_key_lockpick",
-            "ACE_key_west"
+            "ACE_key_west",
+            LIST_4("ACE_splint")
         };
     };
     class Type {
